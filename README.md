@@ -1,4 +1,3 @@
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 👋 Hi, I’m Alex
 🌱 I’m currently a Student
 ⚡ Support my projects - https://www.buymeacoffee.com/notwally
