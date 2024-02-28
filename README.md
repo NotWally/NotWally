@@ -1,12 +1,17 @@
-## 👋 Hi there, I'm Alex!
+<h2 align="center">👋 Hi there, I'm Alex!</h2>
 
-- 👨‍💻 Software Developer
-- 📍 London, England
-- ⚡ Currently working on something special...
-- 💡 Connect with me on [LinkedIn](https://linkedin.com/in/alex06nedelcu) or [X](https://x.com/A13xDev) 
-- ☕ Support my Projects: [Buy Me a Coffee](https://buymeacoffee.com/notwally)
+<p align="center">
+  👨‍💻 Software Developer <br/>
+  📍 London, England <br/>
+  ⚡ Currently working on something special... <br/>
+  💡 Connect with me on <a href="https://linkedin.com/in/alex06nedelcu">LinkedIn</a> or <a href="https://x.com/A13xDev">X</a> <br/>
+  ☕ Support my Projects: <a href="https://buymeacoffee.com/notwally">Buy Me a Coffee</a>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NotWally&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=NotWally&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotWally&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h1 align="center">📊 GitHub Stats:</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NotWally&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotWally&theme=dark&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotWally&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</p>
