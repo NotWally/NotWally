@@ -10,16 +10,16 @@
 
 ## 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,python,go,graphql,docker,aws,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cs,cpp,react,reactnative,python,nodejs,typescript,nextjs,tailwind,docker,postgres,git,linux,aws,express,flutter" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexnedelcu&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=notwally&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexnedelcu&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notwally&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
