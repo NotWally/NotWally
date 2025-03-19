@@ -10,8 +10,29 @@
 
 ## 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cs,cpp,react,python,nodejs,typescript,nextjs,tailwind,docker,postgres,git,linux,aws,express,flutter" />
+  
+  ### Frontend Development
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,p5js" />
+
+  ### Backend Development
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,cs,cpp,python" />
+
+  ### Databases
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite" />
+
+  ### DevOps and Tools
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,powershell,raspberrypi,vscode,arduino" />
+
+  ### Mobile and Game Development
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,unity" />
+
+  ### Additional tools and competencies  
+  <img src="https://skillicons.dev/icons?i=npm,discord,stackoverflow" />
+
+  ### other 
+  <img src="https://skillicons.dev/icons?i=ae,premiere" />
 </p>
+
 
 ---
 
