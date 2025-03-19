@@ -1,7 +1,4 @@
 <h1 align="center">Hey there, I'm Alex! 👋</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500" alt="Coding GIF">
-</p>
 
 ## 🚀 About Me  
 - 👨‍💻 **Software Developer** passionate about building cool stuff.  
